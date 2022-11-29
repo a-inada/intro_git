@@ -4,4 +4,5 @@ We practice standard of Git.
 .git commit
 .git rm
 .git status
+.git diff
 YayYayYayYay

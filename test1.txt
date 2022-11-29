@@ -1,3 +1,5 @@
 Git Practice
 We practice standard of Git.
-Yay
+.git add
+.git commit
+YayYayYayYay

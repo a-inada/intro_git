@@ -2,4 +2,5 @@ Git Practice
 We practice standard of Git.
 .git add
 .git commit
+.git rm
 YayYayYayYay
